@@ -27,7 +27,7 @@
                 <h3 class="text-medium text-center text-secondary">Secure Shopping</h3>
                 <p
                   class="text-small text-center"
-                >Metus tellus ultricies et quam sit amet commodo odio diam a libero nulla facilisi suspendissous enim sodales lacinia neque commodo.</p>
+                >Wenslink is committed to maintain the privacy of your data. We ensure your personal information is secure and encrypted.</p>
               </div>
             </div>
           </div>
@@ -40,7 +40,7 @@
                 <h3 class="text-medium text-center text-secondary">Shop with Confidence</h3>
                 <p
                   class="text-small text-center"
-                >Metus tellus ultricies et quam sit amet commodo odio diam a libero nulla facilisi suspendissous enim sodales lacinia neque commodo.</p>
+                >We have gone to extensive lengths to help you shop with confidence. Quality Products and Best Prices Guaranteed.</p>
               </div>
             </div>
           </div>
@@ -53,7 +53,7 @@
                 <h3 class="text-medium text-center text-secondary">Return Policy</h3>
                 <p
                   class="text-small text-center"
-                >Metus tellus ultricies et quam sit amet commodo odio diam a libero nulla facilisi suspendissous enim sodales lacinia neque commodo.</p>
+                >Easy Exchange & Returns and a hassle-free Refund Policy in case of returns.</p>
               </div>
             </div>
           </div>
@@ -66,7 +66,7 @@
                 <h3 class="text-medium text-center text-secondary">Delivery Protection</h3>
                 <p
                   class="text-small text-center"
-                >Metus tellus ultricies et quam sit amet commodo odio diam a libero nulla facilisi suspendissous enim sodales lacinia neque commodo.</p>
+                >Associated with reputed and reliable Delivery Partners for smooth and quick delivery of your products.</p>
               </div>
             </div>
           </div>
