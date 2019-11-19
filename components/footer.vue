@@ -99,7 +99,7 @@
         <div>
           <p class="m-0 text-secondary text-small">Blog</p>
           <p class="m-0 text-secondary text-small">RSS Syndication</p>
-          <p class="m-0 text-secondary text-small">Shipping & Returns</p>
+          <p class="m-0 text-secondary text-small"><nuxt-link to="/legal/returnpolicy">Shipping & Returns</nuxt-link></p>
           <p class="m-0 text-secondary text-small">Theme Styles</p>
           <p class="m-0 text-secondary text-small">Sitemap</p>
           <p class="m-0 text-secondary text-small">Contact Us</p>
