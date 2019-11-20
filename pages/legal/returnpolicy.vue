@@ -55,7 +55,7 @@ Chance to drop the request is accessible till we have not begun the preparing. W
               class="a-text-left" style="font-size: 15px;
     white-space: pre-line;
     line-height: 30px;
-}">* You are mentioned to quickly email at <a href="mailto:return@wenslink.com">return@wenslink.com</a> alongside your request number for any abrogations to be made.
+}">* You are mentioned to quickly email at <a href="mailto:sales@wenslink.com">sales@wenslink.com</a> alongside your request number for any abrogations to be made.
 
 * Your requests can likewise be dropped if Promotional wears group finds your instalments have not been gotten.
 
